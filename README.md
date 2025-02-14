@@ -21,4 +21,4 @@ The database stores structured data about World Cup matches, including teams, ma
 All columns are non-nullable, ensuring data integrity. The database is designed for efficient querying and can be backed up or restored using PostgreSQL commands. 
 
 ## Relational database diagram
-<!-- ![database]() >
+![database](https://github.com/AdelaHlobilova/WorldcupDatabase/blob/main/drawSQL-world-cup-db.png)
